@@ -1,9 +1,9 @@
 Problem 4: Recursive BucketSort
 KNOWN BUG: Doesn't work 100% correctly when using recursion, overall order is preserved but ordering within a specific letter (like if we have Alan, Avery, etc..) may not work.
 
-USAGE: Assuming Java is installed and added to PATH variable
-	javac Problem_4.java
-	java Problem_4
+USAGE: Assuming Java is installed and added to PATH variable <br />
+	javac Problem_4.java <br />
+	java Problem_4 <br />
 
 Summary: 
 	The program reads the first line from "input.txt", which should be a list of names separated by spaces. Then, it implements a bucketSort algorithm to 
