@@ -1,8 +1,8 @@
 Problem 3: Random Selection Algorithm
 
-USAGE: Make sure Java is installed and added to your system PATH variable.
-	javac Problem_3.java
-	java Problem_3
+USAGE: Make sure Java is installed and added to your system PATH variable. <br />
+	javac Problem_3.java <br />
+	java Problem_3 <br />
 
 An output.txt file will be created.
 
