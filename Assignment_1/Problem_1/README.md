@@ -1,8 +1,8 @@
 Problem 1 README
 
 USAGE: Ensure Java is installed and added to your PATH variable.
-Then: -javac Problem_1.java
-      -java Problem_1
+Then: javac Problem_1.java__
+      java Problem_1__
 
 
 QueueNode Class:
