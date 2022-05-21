@@ -1,9 +1,9 @@
 Problem 2: Huffman Encoding implementation
 
-The program expects "input.txt" to exist in the same directory.
-USAGE INSTRUCTIONS: Make sure Java is installed and has been added to your system PATH.
-	javac Problem_2.java
-	java Problem_2
+The program expects "input.txt" to exist in the same directory. <br />
+USAGE INSTRUCTIONS: Make sure Java is installed and has been added to your system PATH. <br />
+	javac Problem_2.java <br />
+	java Problem_2 <br />
 
 Summary: 
 	This program reads from an "input.txt" local to where the code is executed, performs Huffman encoding on the characters on the file (lowercase a-z), and writes the unique encodings to an "output.txt".
