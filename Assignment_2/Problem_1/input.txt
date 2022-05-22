@@ -1,0 +1,11 @@
+put bob 99
+get sally
+put sally 100
+get sally
+put sally 72
+get sally
+put jack 100
+put alex 88
+put joe 5
+put ajax 78
+get bob

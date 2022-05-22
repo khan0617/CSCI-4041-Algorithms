@@ -1,0 +1,8 @@
+insert Paul 2
+insert Alan 5
+max
+insert Sue 999
+insert Sally 99
+extract
+max
+quit
